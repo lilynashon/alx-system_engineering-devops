@@ -1,0 +1,1 @@
+script for creaating alis
